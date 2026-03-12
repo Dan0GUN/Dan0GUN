@@ -1,6 +1,6 @@
 # Daniel Ogundare ⊹₊⋆
 
-**`Aspiring Full-Stack Developer/ ML Researcher/ Computer Science and Management @ UBC`**
+**`Full-Stack Developer / ML Researcher / Computer Science and Management @ UBC`**
 
 - 3rd-year undergraduate pursuing a dual degree in Computer Science and Management, with minors in Mathematics and Statistics
 - Experience in Linear Algebra, Machine Learning and Software Engineering 
