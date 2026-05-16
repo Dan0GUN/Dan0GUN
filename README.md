@@ -10,4 +10,4 @@ I am a fourth year undergraduate student taking a **Bachelor of Science in Compu
 
 `Python | C/C++ | React | HTML | CSS | JavaScript | SQL | VS Code | HuggingFace | APIs`
 
-<center>─── ⋆⋅☆⋅⋆ ───</center>
+──────────────────────────────────── ⋆⋅☆⋅⋆ ────────────────────────────────────
